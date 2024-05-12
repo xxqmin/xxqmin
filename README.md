@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently working on maum.ai as AI Developer. (https://maum.ai/)
+
+You may not be able to see most of my repository :(
+If you'd like to know what I'm working on, please let me know!
+
 <!--
 **xxqmin/xxqmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
